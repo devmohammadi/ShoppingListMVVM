@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingListMVVM</string>
+    <string name="description_for_image">Description for image</string>
+    <string name="title">Add a New Shopping Item</string>
+    <string name="name">name</string>
+    <string name="amount">amount</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+</resources>
